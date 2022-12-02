@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mihir478
-- 👀 I’m interested in Finance!
+- 👀 I’m interested in Finance / Javascript !
 - 🌱 I’m currently learning React, VISX, JS performance. 
 - 💞️ I’m looking to collaborate on anythng!
 - 📫 How to reach me: mihir.h.sanghavi@gmail.com
