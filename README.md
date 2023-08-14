@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mihir478
 - 👀 I’m interested in Finance / JavaScript !
-- 🌱 I’m currently learning React, VISX, JS performance. 
-- 💞️ I’m looking to collaborate on anythng!
+- 🌱 I’m currently working with React, VISX, JS performance. 
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: mihir.h.sanghavi@gmail.com
 
 <!---
