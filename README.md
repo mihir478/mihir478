@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mihir478
+- 👋 Hi, I’m Mihir Sanghavi!
 - 👀 I’m interested in Finance / JavaScript !
 - 🌱 I’m currently working with React, VISX, JS performance. 
 - 💞️ I’m looking to collaborate on anything!
